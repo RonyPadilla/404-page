@@ -9,7 +9,7 @@ ReactDOM.createRoot(document.getElementById("root")).render(
     </header>
     <body>
       <section className="section-info">
-        <img src="https://github.com/RonyPadilla/404-page/blob/main/src/img/404img.png" alt="404-img" className="img-error" />
+        <img src="https://github.com/RonyPadilla/404-page/blob/main/src/img/404img.png?raw=true" alt="404-img" className="img-error" />
         <div className="div-info">
           <h1 className="title">I have bad news for you</h1>
           <p className="info">
